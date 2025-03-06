@@ -26,7 +26,7 @@ To run the Calculator Program, follow these steps:
    ```
 2. Navigate to the project directory:
    ```
-   cd Calculator_Program
+   cd Calculator-Program
    ```
 3. Run the calculator program:
    ```
@@ -41,13 +41,8 @@ Upon running the program, you will be prompted to enter the first number and cho
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
-- Icons by [Icons8](https://icons8.com)
 - ASCII art inspiration from various online sources.
 
 Thank you for using the Calculator Program! Enjoy calculating!
