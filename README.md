@@ -1,10 +1,8 @@
-# Calculator Program
-
-![Calculator Icon](https://img.icons8.com/ios-filled/50/000000/calculator.png)
+# 🎰Calculator Program!🎰
 
 ## Overview
 
-Welcome to the **Calculator Program**! This project is a simple yet stylish command-line calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. The program is designed to be user-friendly and visually appealing with ASCII art.
+Welcome to the **Calculator Program**! This project is a simple command-line calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. The program is designed to be user-friendly and visually appealing with ASCII art.
 
 ## Features
 
@@ -24,7 +22,7 @@ To run the Calculator Program, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/JeremyPanggabean/Calculator-Program.git
    ```
 2. Navigate to the project directory:
    ```
